@@ -5,7 +5,8 @@ I'm Political Science student in HSE. I really enjoy coding and want to try myse
 🐍 Python\
 🐼 Pandas\
 🔢 NumPy\
-📊 Regression analysis
+📊 Regression analysis\
+#️⃣HTML
 
 ## Some stats (idk)
 ![Fedor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayfed&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark)
